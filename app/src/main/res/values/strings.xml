@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListViewOnibus</string>
+    <string-array name="Onibus">
+
+        <item> Linha nº11 Piedade/Derby</item>
+        <item> Linha nº14 Brasília (Conde da Boa Vista) </item>
+        <item> Linha nº20 Candeias / TI Tancredo Neves </item>
+        <item> Linha nº21 TI Tancredo Neves / TI Aeroporto </item>
+        <item> Linha nº71 Candeias </item>
+        <item> Linha nº61 Piedade </item>
+        <item> Linha nº102 Ti Santa Luzia / Ibura </item>
+        <item> Linha nº129 Paiva / Ti Cabo </item>
+
+
+
+    </string-array>
+
+</resources>
